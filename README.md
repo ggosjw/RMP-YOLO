@@ -16,9 +16,7 @@ we introduce a simple MLP-based recovery module combined with one layer of local
 
 
 ## Results
-！[Visualization Results]([visualizationi.png](https://github.com/ggosjw/RMP-YOLO/blob/56022a515b0422ce00858343af4de2f6ccb1faf5/visualizationi.png))
-
-
+！[Visualization Results](visualizationi.png "viualization")
 
 ## Citation
 If you find this paper useful, please cite it as:
