@@ -16,7 +16,8 @@ we introduce a simple MLP-based recovery module combined with one layer of local
 
 
 ## Results
-！[Visualization Results](visualizationi.png "viualization")
+![Visualization Results](visualizationi.png "viualization")
+![framework](assets/pipeline.jpg "framework")
 
 ## Citation
 If you find this paper useful, please cite it as:
