@@ -16,7 +16,7 @@ we introduce a simple MLP-based recovery module combined with one layer of local
 
 
 ## Results
-[Visualization Results](/pipline.pdf)
+[Visualization Results](./pipline.pdf)
 
 
 
