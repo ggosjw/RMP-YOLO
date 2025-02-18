@@ -12,7 +12,7 @@ Our key insight stems from the observation that complete and reliable historical
 we introduce a simple MLP-based recovery module combined with one layer of local attention transformer to reconstruct the historical trajectories. Our contributions are summarized as follows:
 - We introduce RMP-YOLO, a novel framework that prioritizes reconstructing agents' incomplete historical trajectories by leveraging local map topology and agent interactions. This reconstruction process effectively handles varying lengths of missing data, ensuring robustness against noise and incomplete observations.
 - The recovery module we propose is simple and lightweight. Moreover, it integrates seamlessly with existing motion prediction models, enhancing their robustness without the need for extensive modifications.
-- Our method won third place in the 2024 Waymo Motion Prediction Competition. We deploy our algorithms on real vehicles to validate the effectiveness of our methods. We will open-source our code to support the robotics community after the paper is accepted.
+- Our method won third place in the 2024 Waymo Motion Prediction Competition. We deploy our algorithms on real vehicles to validate the effectiveness of our methods. 
 ![](fig/pipline.png "pipline")
 
 
