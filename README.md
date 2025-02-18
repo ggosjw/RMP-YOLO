@@ -1,4 +1,4 @@
-# RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once
+#[ICRA2024] RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once
 
 **Authors**: Jiawei Sun, Jiahui Li,  Tingchen Liu, Chengran Yuan, Shuo Sun, Zefan Huang and Marcelo H. Ang Jr.
 **Rank 3rd** on 2024 Waymo Motion Prediction Competition
